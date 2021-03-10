@@ -1,4 +1,4 @@
-# Project 3 - Subreddit Classification
+# Classification Model Accuracy Over Time
 
 <img src="./images/Word_Cloud_both.png" style="float: center; margin: 20px; height: 500px">
 
