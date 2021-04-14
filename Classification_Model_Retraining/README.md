@@ -22,8 +22,11 @@ How well does a classification model hold up over time?
 If a model is built based on a dataset collected at a specific point in time, how far into the future can it be applied, and still be successful (accurate)? Where success is defined as performing better than the baseline accuracy. It would be a bonus if I can identify whether covid specifically had an impact on accuracy, by creating my model from posts gathered from Sept 2019, and applying the model to posts gathered during subsequent months. In order to inject an added degree of difficulty to this problem, the subreddits need to have similar content. And in order to successfully fulfill the requirement to collect data over time, the subreddit memberships need to be very high, to generate enough volume. I am additionally curious about how generalizable the model will be when applied to posts from other subreddits.
 
 Some references for retraining machine learning models:
+
 [The Ultimate Guide to Model Retraining](https://mlinproduction.com/model-retraining/)
+
 [What's Your ML Test Score? A rubric for ML Production Systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf)
+
 [A Gentle Introduction to Concept Drift in Machine Learning](https://machinelearningmastery.com/gentle-introduction-concept-drift-machine-learning/)
 
 ### Data Description
