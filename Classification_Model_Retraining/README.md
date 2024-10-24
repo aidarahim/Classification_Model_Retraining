@@ -16,6 +16,8 @@ Both models perform similarly throughout time, at accuracies close to that obtai
 
 The limits of the models are pushed by running them on different pairs of posts, on which the models were not trained. Happily, classification accuracy is still close to 80% when tried on 2 different subreddit pairings.
 
+[Summary presentation](https://github.com/aidarahim/Classification_Model_Retraining/blob/main/Classification_Model_Retraining/Reddit_Classification_Model_Robustness.pdf)
+
 ### Problem Statement
 How well does a classification model hold up over time?
 
